@@ -42,6 +42,9 @@
     <orderEntry type="library" scope="TEST" name="SBT: org.specs2:specs2-core_2.11:3.0.1:jar" level="project" />
     <orderEntry type="library" scope="TEST" name="SBT: org.specs2:specs2-matcher_2.11:3.0.1:jar" level="project" />
     <orderEntry type="library" scope="TEST" name="SBT: org.typelevel:scodec-bits_2.11:1.0.4:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.yaml:snakeyaml:1.16-SNAPSHOT:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.fasterxml.jackson.core:jackson-annotations:2.1.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.fasterxml.jackson.core:jackson-core:2.1.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.fasterxml.jackson.core:jackson-databind:2.1.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.1.1:jar" level="project" />
   </component>
 </module>
